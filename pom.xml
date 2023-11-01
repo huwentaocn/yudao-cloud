@@ -20,6 +20,7 @@
         <module>yudao-module-report</module>
         <module>yudao-module-mp</module>
         <module>yudao-module-mall</module>
+        <module>yudao-module-demo</module>
     </modules>
 
     <name>${project.artifactId}</name>
